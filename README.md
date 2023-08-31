@@ -4,8 +4,9 @@
  I have started coding journey in late 2018 with a coding bootcamp from France. Currently I'm studying in Pasadena City College. 🏫
  
  I'm currently focusing on learning web development and UX/UI. Looking forward to become an SWE in the near future.
+ - Current Tech Stack: React, Typescript, C++
  
- - Contact Me: [LinkedIn](https://www.linkedin.com/in/marrodri95)
+ -  [LinkedIn](https://www.linkedin.com/in/marrodri95)
  
  - Personal Favority Quote: **Glory to Mankind**
     
