@@ -1,4 +1,4 @@
-# Quick Intro 👋
+## Quick Intro 👋
  Hi there, my name is Marthel Rodriguez. 
  
  I have started coding journey in late 2018 with a coding bootcamp from France. Currently I'm studying in Pasadena City College. 🏫
@@ -9,7 +9,8 @@
  -  [LinkedIn](https://www.linkedin.com/in/marrodri95)
  
  - Personal Favority Quote: **Glory to Mankind**
-    
+
+### Stats
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrodri)](https://github.com/anuraghazra/github-readme-stats)
 
