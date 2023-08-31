@@ -1,15 +1,16 @@
 ## Quick Intro 👋
  Hi there, my name is Marthel Rodriguez. 
  
- I have started coding journey in late 2018 with a coding bootcamp from France. Currently I'm studying in Pasadena City College. 🏫
+ I have started my coding journey in late 2018 with a coding bootcamp that came from France. Today, I'm studying in Pasadena City College. 🏫
  
  I'm currently focusing on learning web development and UX/UI. Looking forward to become an SWE in the near future.
- - Current Tech Stack: React, Typescript, C++
  
- -  [LinkedIn](https://www.linkedin.com/in/marrodri95)
+ - 💻 Current Tech Stack: React, Typescript, Javascript, C++
  
- - Personal Favority Quote: **Glory to Mankind**
+ - 💬 Personal Favorite Quote: **"Glory to Mankind"** (Yoko Taro)
 
+### Other Profiles
+ -  [LinkedIn](https://www.linkedin.com/in/marrodri95)
 ### Stats
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrodri)](https://github.com/anuraghazra/github-readme-stats)
