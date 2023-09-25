@@ -3,11 +3,14 @@
  
  I have started my coding journey in late 2018 with a coding bootcamp that came from France. Today, I'm studying in Pasadena City College. 🏫
  
- I'm currently focusing on learning web development and UX/UI. Looking forward to become an SWE in the near future.
+ I'm currently focusing on web development and UX/UI. Looking forward to become an SWE in the near future.
  
  - 💻 Current Tech Stack: React, Typescript, Javascript, C++
+ - 📖 I like to read non-fiction books
+ - 🍜 I love Ramen, Korean BBQs and Texas BBQs.
+ - 💬 I studied japanese in Mexico, currently learning mandarin in the US.
  
- - 💬 Personal Favorite Quote: **"Glory to Mankind"** (Yoko Taro)
+ - 🤖 Personal Favorite Quote: **"Glory to Mankind"** (Yoko Taro)
 
 ### Other Profiles
  -  [LinkedIn](https://www.linkedin.com/in/marrodri95)
