@@ -9,7 +9,7 @@
  - 📖 I like to read non-fiction books
  - 🍜 I love Ramen, Korean BBQs and Texas BBQs.
  - 🎮 ask me anything about videogames.
- - 💬 I studied japanese in Mexico, currently learning mandarin in the US.
+ - 💬 I studied japanese in Mexico, currently learning mandarin in the US (on a break).
  
  - 🤖 Personal Favorite Quote: **"Glory to Mankind"** (Yoko Taro)
 
