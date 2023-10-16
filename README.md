@@ -5,7 +5,7 @@
  
  I'm currently focusing on web development and UX/UI. Looking forward to become an SWE in the near future.
  
- - 💻 Current Tech Stack: React, Typescript, Javascript, C++
+ - 💻 Current Tech Stack: React, Javascript, C++, Firebase
  - 📖 I like to read non-fiction books
  - 🍜 I love Ramen, Korean BBQs and Texas BBQs.
  - 🎮 ask me anything about videogames.
