@@ -3,7 +3,7 @@
  
  I have started my coding journey in late 2018 with a coding bootcamp that came from France. Today, I'm studying in Pasadena City College. 🏫
  
- - 💻 Current Tech Stack: React, Javascript, C++, Java, Firebase
+ - 💻 Current Tech Stack: React, Javascript, C++, Java, Python, Firebase
  - 📖 I like to read non-fiction books
  - 🍜 I love Ramen, Korean BBQs and Texas BBQs.
  - 🎮 ask me anything about videogames.
