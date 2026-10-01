@@ -1,15 +1,11 @@
 ## Quick Intro 👋
  Hi there, my name is Marthel Rodriguez. 
  
- I have started my coding journey in late 2018 with a coding bootcamp that came from France. Today, I'm studying in Pasadena City College. 🏫
+ I have started my coding journey in late 2018 with a coding bootcamp that came from France. Today, I'm majoring in CSE at UCSD 28'. 🏫
  
- - 💻 Current Tech Stack: React, Javascript, C++, Java, Python, Firebase
- - 📖 I like to read non-fiction books
- - 🍜 I love Ramen, Korean BBQs and Texas BBQs.
- - 🎮 ask me anything about videogames.
- - 💬 I studied japanese in Mexico, currently learning mandarin in the US (on a break).
+ - 💻 Current Tech Stack: React, Javascript, C++, Java, Python, Firebase, ROS 2 Jazzy, MuJoCo
+ - (TODO) Write other bulletpoints in the future...
  
- - 🤖 Personal Favorite Quote: **"Stay hungry, Stay Foolish"** (Steve Jobs)
 
 ### Other Profiles
  -  [LinkedIn](https://www.linkedin.com/in/marrodri95)
