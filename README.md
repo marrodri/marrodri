@@ -3,7 +3,7 @@
  
  I have started my coding journey in late 2018 with a coding bootcamp that came from France. Today, I'm majoring in CSE at UCSD 28'. 🏫
  
- - 💻 Current Tech Stack: React, Javascript, C++, Java, Python, Firebase, ROS 2 Jazzy, MuJoCo
+ - 💻 Current Tech Stack: React, Javascript, C++, Java, Python, Firebase, ROS 2 Jazzy, MuJoCo, vim (rusty)
  - (TODO) Write other bulletpoints in the future...
  
 
